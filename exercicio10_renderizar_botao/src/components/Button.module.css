@@ -1,0 +1,12 @@
+.btnEntrar{
+    background-color: greenyellow;
+    color: #000;
+    margin: 5px;
+}
+
+.btnSair{
+    background-color: red;
+    color: #fff;
+    margin: 5px;
+}
+
