@@ -1,10 +1,10 @@
 import './App.css'
-import Hello from './components/Hello';
+import Saudacao from './components/Saudacao';
 
 function App() {
   return (
     <>
-      <Hello />
+      <Saudacao nome="Emanuel" />
     </>
   )
 }
